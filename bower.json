@@ -1,0 +1,16 @@
+{
+  "name": "mobi.ui.guid",
+  "version": "0.0.1",
+  "homepage": "https://github.com/loet/mobi.ui.guid",
+  "authors": [
+    "U110730 <ueli.loetscher@mobi.ch>"
+  ],
+  "description": "angular module providing GUIDService",
+  "main": "src/guid.js",
+  "license": "N/A",
+  "devDependencies": {
+    "angular": "1.2.21",
+    "angular-mocks": "1.2.21",
+    "angular-uuid4": "0.1.0"
+  }
+}
